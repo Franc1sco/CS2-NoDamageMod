@@ -1,6 +1,6 @@
 # CS2-NoDamageMod
 
-Simple "no damage" plugin for servers like idle gamemode where don't want damage or just for be disabled/enabled whenever you want via admin command.
+Simple "no damage" plugin for servers like idle where don't want damage or just for be disabled/enabled whenever you want via admin command.
 
 ### Requirements
 * [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/) (version 142 or higher)
